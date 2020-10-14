@@ -1,5 +1,5 @@
 apt install ruby -y
-gem install lolcat -y
+gem install lolcat
 apt install python -y
 apt install python2 -y
 apt install git -y
