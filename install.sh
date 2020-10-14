@@ -14,8 +14,5 @@ sleep 2
 clear
 echo '         TOOL USARNAME =fatabotol ' | lolcat -a -d 10
 echo '         TOOL PASSWORD =fatabotol ' | lolcat -a -d 10
-echo '         ---------------------------------------------'
-echo -e '\e[31;m                        ! Copy Tool !\e[0m '
-sleep 2
-echo '         Org = https://github.com/BotolMehedi/bint.git ' | lolcat -a -d 30  
+
 
